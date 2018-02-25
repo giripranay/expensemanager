@@ -14,5 +14,5 @@ Additional Features:
 
 How it works?
      To run this app, one must have django framework and basic knowledge on how django works.Database used in my project is sqlite3.
-     Base url(Home page)------localhost/expensemanager
+     Refer Screenshots.pdf file to view how web pages appear in my project.
 
