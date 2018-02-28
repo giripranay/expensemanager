@@ -1,8 +1,8 @@
-"REQUIREMENTS:"
+REQUIREMENTS
 Software required to run web application.---Python and Django must be installed in your computer.
 Command to install Django(linux)--  pip install django
 
-INSTRUCTIONS TO RUN WEB APP:
+INSTRUCTIONS TO RUN WEB APP
           Download the Zip file and unzip it.
 1.once django is installed in your computer,using "cd" command move into our project folder.
 2.website/
