@@ -1,0 +1,16 @@
+"REQUIREMENTS:"
+Software required to run web application.---Python and Django must be installed in your computer.
+Command to install Django(linux)--  pip install django
+
+INSTRUCTIONS TO RUN WEB APP:
+          Download the Zip file and unzip it.
+1.once django is installed in your computer,using "cd" command move into our project folder.
+2.website/
+    manage.py**
+    expensemanager
+    website
+    db.sqlite3
+3.make sure you’re in the same directory as manage.py and type this command: --  python manage.py runserver
+4.Above command starts a local server.
+5.Open browser and Go to "http://127.0.0.1:8000/expensemanager/"
+6.You will be in the home page of my project("EXPENSEMANAGER").
